@@ -1,7 +1,6 @@
 # Aplicativo de Gatos
 
 ### Este projeto foi produzido inteiramente utilizando os conhecimentos de *React Native* e *Javascript*. Sua principal funcionalidade é mostrar imagens infinitas de gatos
-<img src="https://user-images.githubusercontent.com/79621661/140532594-03ba19b2-8444-49a1-bd20-c0362177b5cc.png" alt="cats-app" width="200"/>
 
 ## Instruções para iniciar o projeto 🌟
 
@@ -19,7 +18,7 @@ $ yarn / npm install
 # Iniciar o projeto
 $ expo start
 ```
-
+<img src="https://user-images.githubusercontent.com/79621661/140532594-03ba19b2-8444-49a1-bd20-c0362177b5cc.png" alt="cats-app" width="200"/>
 *Imagem da aplicação em um celular*
 
 ### A API [The Cat API](https://thecatapi.com/) foi utilizada para a requisição e funcionalidade do aplicativo.
